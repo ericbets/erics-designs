@@ -21,4 +21,5 @@ Here's one design that uses a few self documenting conventions like ti (title),d
   }
 }
 ```
-Then the fact that you can easily generate a config file probably makes up for the pain of a few extra brackets. A system like this would have a lot of flexibility. Perhaps it could even become a standard way of configuring services. That is something that I would like to have. 
+Then the fact that you can easily generate a config file and these tools probably makes up for the pain of a few extra brackets. A system like this would have a lot of flexibility. Perhaps it could even become a standard way of configuring services. That is something that I would like to have. 
+
